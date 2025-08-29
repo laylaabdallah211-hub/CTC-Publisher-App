@@ -1,5 +1,0 @@
-git rm "CTC Application/TextbookExchange"
-git commit -m "Delete TextbookExchange from CTC Application folder"
-git push origin main
-
-

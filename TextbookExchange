@@ -1,3 +1,6 @@
-Delete TextbookExchange file
+git rm TextbookExchange
+git commit -m "Delete TextbookExchange file"
+git push
+
 
 
